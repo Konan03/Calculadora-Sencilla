@@ -1,2 +1,2 @@
-# prueba
-esto es una prueba
+# Calculadora Sencilla
+un pequeño ejercicio que hice de una calculadora sencilla. :D
